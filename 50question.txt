@@ -1,0 +1,54 @@
+Sure, here are 50 else-if questions for you to solve in C language:
+
+1. Write a program to determine if a given number is positive, negative, or zero using else-if statements.
+2. Create a program that takes an integer as input and checks if it's even or odd.
+3. Write a program that calculates the grade of a student based on their marks. Assume a grading system.
+4. Create a program that determines if a year entered by the user is a leap year or not.
+5. Write a program to find the largest among three numbers using else-if ladder.
+6. Create a program that checks if a character entered by the user is a vowel or a consonant.
+7. Write a program to determine the type of triangle based on user input of three angles.
+8. Create a program that determines if a given character is an uppercase letter, lowercase letter, digit, or special character.
+9. Write a program to calculate the roots of a quadratic equation ax^2 + bx + c = 0.
+10. Create a program that checks whether a given number is a perfect square or not.
+11. Write a program to find the largest among four numbers using else-if ladder.
+12. Create a program to calculate the electricity bill based on units consumed.
+13. Write a program that determines if a given year is a century year or not.
+14. Create a program to check if a given number is divisible by both 5 and 11.
+15. Write a program to determine the season (spring, summer, autumn, winter) based on the month entered by the user.
+16. Create a program that determines if a given character is a digit, alphabet, or special character.
+17. Write a program to find the factorial of a number using else-if statements.
+18. Create a program to check if a given number is a prime number or not.
+19. Write a program to determine the day of the week based on the user's input of the number (1 for Monday, 2 for Tuesday, etc.).
+20. Create a program to find the minimum among four numbers using else-if ladder.
+21. Write a program to convert temperature from Celsius to Fahrenheit and vice versa based on user choice.
+22. Create a program that determines if a given year is a leap year or not using nested else-if statements.
+23. Write a program to determine if a given string is a palindrome or not.
+24. Create a program that checks if a given number is divisible by both 3 and 7.
+25. Write a program to calculate the sum of digits of a number entered by the user.
+26. Create a program that determines the type of day (weekday or weekend) based on user input of the day number.
+27. Write a program to calculate the area of a triangle using Heron's formula.
+28. Create a program that determines if a given number is an Armstrong number or not.
+29. Write a program to determine the type of character entered by the user (alphabet, digit, or special character).
+30. Create a program that calculates the square and cube of a number based on user choice.
+31. Write a program to check if a given year is a leap year or not without using the modulus operator.
+32. Create a program that determines if a given number is a perfect number or not.
+33. Write a program to calculate the sum of all even numbers between 1 and a given number.
+34. Create a program that determines if a given year is a leap year or not using logical operators.
+35. Write a program to reverse a given number and check if it's a palindrome.
+36. Create a program that determines if a given character is an alphabet, digit, or special character using ternary operator.
+37. Write a program to check if a given number is a power of 2 or not.
+38. Create a program that calculates the area of a circle, rectangle, or triangle based on user choice.
+39. Write a program to determine if a given string is a palindrome or not without using any library functions.
+40. Create a program that determines the largest among three numbers using ternary operator.
+41. Write a program to check if a given character is an alphabet or not.
+42. Create a program that calculates the BMI (Body Mass Index) based on user input of weight and height.
+43. Write a program to check if a given number is divisible by 4 and 6 both.
+44. Create a program that determines if a given character is a digit or not.
+45. Write a program to find the smallest among three numbers using ternary operator.
+46. Create a program that calculates the factorial of a number using recursion.
+47. Write a program to check if a given year is a leap year or not using conditional operator.
+48. Create a program that determines if a given character is a vowel or not without using if-else.
+49. Write a program to find the sum of all natural numbers between 1 and a given number.
+50. Create a program that determines if a given character is an uppercase letter or lowercase letter without using library functions.
+
+Try solving these, and feel free to ask for assistance if needed!
